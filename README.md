@@ -6,6 +6,7 @@ CONTENTS OF THIS FILE
  * Installation and Configuration
  * Appearance
  * Oxwall Store
+ * Motoshub
 
 ABOUT OXWALL
 ============
